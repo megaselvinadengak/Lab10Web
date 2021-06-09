@@ -31,9 +31,12 @@ Membuat file mobil.php yang kita tempatkan di folder template. Kita rancang desa
 Kemudian membuat file form_input.php. Berikut ini adalah potongan codenya
 
 
+![form input](https://user-images.githubusercontent.com/56498195/121351638-321c0680-c956-11eb-86d3-e49e58f0dc03.PNG)
+
+
 ![1](https://user-images.githubusercontent.com/56498195/121351631-30524300-c956-11eb-9c49-a3a3c65bcbba.PNG)
 
 
-![form input](https://user-images.githubusercontent.com/56498195/121351638-321c0680-c956-11eb-86d3-e49e58f0dc03.PNG)
+
 
 
